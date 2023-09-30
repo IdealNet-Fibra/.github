@@ -19,8 +19,8 @@
   </div>
   
   <div align="center">
-    <img  src="https://avatars.githubusercontent.com/u/145493914?s=200&v=4"
-         alt="IdealSeg" />
+    <img  src="/assets/idealseg-v-branco.png"
+         alt="IdealSeg" width="200px" />
   </div>
   
   
