@@ -19,7 +19,7 @@
   </div>
   
   <div align="center">
-    <img  src="/assets/idealseg-v-branco.png"
+    <img  src="/assets/idealseg-v-preto.png"
          alt="IdealSeg" width="200px" />
   </div>
   
